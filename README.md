@@ -25,3 +25,7 @@ A beginner-friendly Python calculator built in Google Colab, demonstrating reusa
 ![Python Calculator Part 1](calculator_part1.png)
 ![Python Calculator Part 2](calculator_part2.png)
 ![Python Calculator Output](calculator_output.png)
+## Run the Calculator
+You can run this project live in Google Colab by clicking the link below:
+
+[Open in Colab](https://colab.research.google.com/github/TirasCE/Python-Calculator/blob/main/Python-Calculator.ipynb)
