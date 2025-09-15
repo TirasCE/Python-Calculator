@@ -24,4 +24,4 @@ A beginner-friendly Python calculator built in Google Colab, demonstrating reusa
 ## Screenshot
 ![Python Calculator Part 1](calculator_part1.png)
 ![Python Calculator Part 2](calculator_part2.png)
-
+![Python Calculator Output](calculator_output.png)
